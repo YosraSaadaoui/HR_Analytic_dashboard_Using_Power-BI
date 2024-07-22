@@ -1,23 +1,18 @@
-# HR-Analytics-Dashboard-Using-Tableau
+# HR-Analytics-Dashboard-Using-Power BI
 
 <p align="center">
   <img width="700" height="170" src="https://user-images.githubusercontent.com/124501309/227756844-5972e656-be9a-4c97-a0a0-ef5aae750a12.png">
 </p>
 
-## Links:
-Lets Connect 
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
 
 ## PROJECT NAME:
 
-#### HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
+#### HR Analytics: A Complete Employee Data Analysis Project using Power BI Dashboard
 
 ## ABOUT PROJECT:
 
-This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
+This HR analytics Power BI project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
 
 This includes trendline and target line to help HR managers track progress toward reducing attrition. It has charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
 
@@ -25,7 +20,7 @@ This includes trendline and target line to help HR managers track progress towar
 
     • Advance Excel 👨‍💻 
 
-    • Tableau 📊
+    • Power BI 📊
 
     • Statistics 📜
     
@@ -93,16 +88,7 @@ Overall, HR Analytics Dashboard project using Tableau is an essential tool for a
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+[Go to my LinkedIn](https://www.linkedin.com/in/yousra-saadaoui/)) 🌐
 
 ## My Other Projects:
 
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
-
-- [Financial Consumer Complaints Data Analysis](https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard) 📜
-
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
-
-- [Github Profile](https://github.com/gulshang7) 🧮
-
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
